@@ -1,10 +1,23 @@
-# My GitHub Project
-
-This project demonstrates the use of Git and GitHub for version control.
+# Simple Interest Calculator
 
 ## Project Name
-Introduction to Git and GitHub Final Project
+Simple Interest Calculator
 
 ## Description
-A hands-on project covering GitHub UI and Git CLI skills including
-branching, merging, pull requests, and open source contribution practices.
+This project contains a simple interest calculator that computes 
+simple interest based on user input.
+
+## Formula
+Simple Interest = (Principal x Rate x Time) / 100
+
+## Input Fields
+- Principal: The initial amount of money
+- Rate of Interest: The annual interest rate percentage
+- Time Period: The duration in years
+
+## Usage
+Run the bash script simple-interest.sh and enter the required values
+when prompted.
+
+## License
+Apache License 2.0
